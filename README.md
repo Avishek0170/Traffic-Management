@@ -27,7 +27,7 @@ step 5:- inside the project folder a file is traffic.sql is import in phpmyadmin
 step 6:- check your project http://localhost/TrafficPolice/
 
 
-## Connect with me ~Rajesh Rathore
+## Connect with me ~ Avishek Das
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rathore-0501/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/rajesh_rathore)

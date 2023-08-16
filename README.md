@@ -1,5 +1,5 @@
 # Traffic-Management
-# Traffic Police Management
+# Traffic-Management
 >it's mini project for database management(DBMS) using mysql , its basically for Traffic Police managment, police can Invocie cutting any violetor
 
 ### Technology used :
